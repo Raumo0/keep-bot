@@ -1,0 +1,3 @@
+help - to read about specific command
+hello - say hello to everyone!
+start - what can this bot do?
